@@ -6,7 +6,7 @@
 ### Deep Learning 2: Introduction to TensorFlow  
 [[slides]](https://github.com/enggen/Advanced-Deep-Learning-and-Reinforcement-Learning/blob/master/dl_02%20Introduction%20to%20TensorFlow.pdf) [[video]](https://www.youtube.com/watch?v=JO0LwmIlWw0&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&index=2)
 ### Deep Learning 3: Neural Networks Foundations  
-[[slides]]() [[video]]()
+[[slides]](https://github.com/enggen/Advanced-Deep-Learning-and-Reinforcement-Learning/blob/master/dl_03%20Neural%20Networks%20Foundations.pdf) [[video]](https://www.youtube.com/watch?v=5eAXoPSBgnE&index=3&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 ### Reinforcement Learning 1: Introduction to Reinforcement Learning  
 [[slides]]() [[video]]()
 ### Reinforcement Learning 2: Exploration and Exploitation  
