@@ -4,36 +4,36 @@
 ### Deep Learning 1: Introduction to Machine Learning Based AI  
 [[slides]]() [[video]]()
 ### Deep Learning 2: Introduction to TensorFlow  
-[slides]() [video]() 
+[[slides]]() [[video]]()
 ### Deep Learning 3: Neural Networks Foundations  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Reinforcement Learning 1: Introduction to Reinforcement Learning  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Reinforcement Learning 2: Exploration and Exploitation  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Reinforcement Learning 3: Markov Decision Processes and Dynamic Programming  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Reinforcement Learning 4: Model-Free Prediction and Control  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Deep Learning 4: Beyond Image Recognition, End-to-End Learning, Embeddings 
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Reinforcement Learning 5: Function Approximation and Deep Reinforcement Learning  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Reinforcement Learning 6: Policy Gradients and Actor Critics  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Deep Learning 5: Optimization for Machine Learning  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Reinforcement Learning 7: Planning and Models  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Deep Learning 6: Deep Learning for NLP  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Reinforcement Learning 8: Advanced Topics in Deep RL  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Deep Learning 7. Attention and Memory in Deep Learning  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Reinforcement Learning 9: A Brief Tour of Deep RL Agents  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Deep Learning 8: Unsupervised learning and generative models  
-[slides]() [video]()
+[[slides]]() [[video]]()
 ### Reinforcement Learning 10: Classic Games Case Study  
-[slides]() [video]()
+[[slides]]() [[video]]()
