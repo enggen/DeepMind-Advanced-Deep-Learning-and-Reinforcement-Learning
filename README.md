@@ -4,7 +4,7 @@
 ### Deep Learning 1: Introduction to Machine Learning Based AI  
 [[slides]](https://github.com/enggen/Advanced-Deep-Learning-and-Reinforcement-Learning/blob/master/dl_01%20Introduction%20to%20Machine%20Learning%20Based%20AI.pdf) [[video]](https://www.youtube.com/watch?v=iOh7QUZGyiU&t=0s&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&index=2)
 ### Deep Learning 2: Introduction to TensorFlow  
-[[slides]]() [[video]]()
+[[slides]](https://github.com/enggen/Advanced-Deep-Learning-and-Reinforcement-Learning/blob/master/dl_02%20Introduction%20to%20TensorFlow.pdf) [[video]](https://www.youtube.com/watch?v=JO0LwmIlWw0&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&index=2)
 ### Deep Learning 3: Neural Networks Foundations  
 [[slides]]() [[video]]()
 ### Reinforcement Learning 1: Introduction to Reinforcement Learning  
