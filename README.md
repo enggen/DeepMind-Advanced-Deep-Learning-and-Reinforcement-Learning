@@ -50,7 +50,7 @@
 [[slides]]() [[video]](https://www.youtube.com/watch?v=-mhBD8Frkc4&index=16&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
 ### Deep Learning 8: Unsupervised learning and generative models  
-[[slides]]() [[video]](https://www.youtube.com/watch?v=H4VGSYGvJiA&index=17&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+[[slides]](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning/blob/master/lecture%20slides/dl_08%20Unsupervised%20learning%20and%20generative%20models.pdf) [[video]](https://www.youtube.com/watch?v=H4VGSYGvJiA&index=17&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
 ### Reinforcement Learning 10: Classic Games Case Study  
 [[slides]]() [[video]](https://www.youtube.com/watch?v=ld28AU7DDB4&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&index=18)
