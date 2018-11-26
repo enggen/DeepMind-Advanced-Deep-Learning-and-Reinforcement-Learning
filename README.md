@@ -47,10 +47,10 @@
 [[slides]](https://github.com/enggen/Advanced-Deep-Learning-and-Reinforcement-Learning-DeepMind/blob/master/lecture%20slides/dl_07%20Attention%20and%20Memory%20in%20Deep%20Learning.pdf) [[video]](https://www.youtube.com/watch?v=Q57rzaHHO0k&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&index=15)
 
 ### Reinforcement Learning 9: A Brief Tour of Deep RL Agents  
-[[slides]]() [[video]]()
+[[slides]]() [[video]](https://www.youtube.com/watch?v=-mhBD8Frkc4&index=16&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
 ### Deep Learning 8: Unsupervised learning and generative models  
-[[slides]]() [[video]]()
+[[slides]]() [[video]](https://www.youtube.com/watch?v=H4VGSYGvJiA&index=17&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
 ### Reinforcement Learning 10: Classic Games Case Study  
-[[slides]]() [[video]]()
+[[slides]]() [[video]](https://www.youtube.com/watch?v=ld28AU7DDB4&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&index=18)
