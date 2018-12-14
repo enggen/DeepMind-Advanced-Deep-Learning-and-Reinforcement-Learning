@@ -1,4 +1,5 @@
 # Advanced Deep Learning and Reinforcement Learning
+
 ##### Advanced Deep Learning and Reinforcement Learning course taught at [UCL](http://www.cs.ucl.ac.uk/current_students/syllabus/compgi/compgi22_advanced_deep_learning_and_reinforcement_learning/) in partnership with [DeepMind](https://deepmind.com)
 
 ### Deep Learning 1: Introduction to Machine Learning Based AI  
@@ -54,3 +55,5 @@
 
 ### Reinforcement Learning 10: Classic Games Case Study  
 [[slides]]() [[video]](https://www.youtube.com/watch?v=ld28AU7DDB4&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs&index=18)
+
+
